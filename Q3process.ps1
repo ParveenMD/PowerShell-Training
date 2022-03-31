@@ -1,2 +1,0 @@
-﻿Get-Process |Select-Object processname,handles|select -First 10 | Out-File -FilePath "C:\Users\Administrator.DEMO\Top10Process.txt" -append -Force
-Get-Date -Format "dddd dd MM yyyy hh:mm:ss" |Out-File -FilePath "C:\Users\Administrator.DEMO\Top10Process.txt" -append -Force

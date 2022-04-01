@@ -1,4 +1,4 @@
-﻿1.Write script to check number is even or odd
+﻿#1.Write script to check number is even or odd
 
  $a= Read-Host "Enter your Number"
  $c=$a%2  
